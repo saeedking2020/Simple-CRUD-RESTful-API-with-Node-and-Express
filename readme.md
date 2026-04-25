@@ -1,6 +1,6 @@
 # Simple CRUD RESTful API with Node.js & Express
 
-![Demo Screenshot](./public/demo.jpg)
+![Demo Screenshot](./public/demo.JPG)
 
 A lightweight RESTful API built with **Node.js** and **Express** that demonstrates full **CRUD** (Create, Read, Update, Delete) operations. This project serves as a clean, beginner-friendly reference implementation for building REST APIs with Node.js.
 
