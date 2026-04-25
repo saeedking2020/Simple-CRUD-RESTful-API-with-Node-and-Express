@@ -139,6 +139,7 @@ This project is developed by Saeed Doozandeh
 
 ## 👤 Author
 
-**Saeed** — [GitHub](https://github.com/saeedking2020)
-**Email** — [Email](saeed.doozandehce91@gmail.com)
-**LinkedIn** — [LinkedIn](https://linkedin.com/in/saeeddoozandeh)
+**Saeed Doozandeh** — 
+[GitHub](https://github.com/saeedking2020) /
+[Email](saeed.doozandehce91@gmail.com) /
+[LinkedIn](https://linkedin.com/in/saeeddoozandeh)
