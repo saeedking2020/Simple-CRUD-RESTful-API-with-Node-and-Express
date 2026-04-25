@@ -16,5 +16,4 @@ const routes = (app) => {
         .delete(deleteContact);
 
     }
-
 export default routes;
